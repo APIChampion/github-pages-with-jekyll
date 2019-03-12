@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to the apichampions test blog
 
-I'm glad you are here. I plan to talk about ...
+I'm testing github pages for markdown 
+
